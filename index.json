@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "cyanide",
+  "versions": [
+    {
+      "commit": "9b7d78dd4d804ed74c50f0ab9492f19ac06dc9ca",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:11:49.863688+00:00"
+    }
+  ]
+}
