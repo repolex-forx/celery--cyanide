@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/celery/cyanide/commit/9b7d78dd4d804ed74c50f0ab9492f19ac06dc9ca",
       "git:hexsha": "9b7d78dd4d804ed74c50f0ab9492f19ac06dc9ca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/celery/cyanide/commit/d76f1008f8962e775ce7584e4aab5d73f241d828",
